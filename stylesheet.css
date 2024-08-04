@@ -11,6 +11,13 @@ body {
 .container {
 	display: none;
 }
+
+.btn-config{
+	margin-bottom: 30px;
+	width: 250px;
+	height: 50px;
+	font-size: 18px;
+}
 .peach {
 	background-color: #FFDAB9;
 	
