@@ -14,9 +14,10 @@ body {
 
 .btn-config{
 	margin-bottom: 30px;
-	width: 250px;
+	width: 290px;
 	height: 50px;
 	font-size: 18px;
+	border-radius: 7px;
 }
 .peach {
 	background-color: #FFDAB9;
@@ -1275,11 +1276,11 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 150px;
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
 	color: #C4515C;
